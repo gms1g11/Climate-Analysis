@@ -3,7 +3,8 @@
 ## Authors
 
 * Graham 1st authors
-* Rox just the audience
+* Rox Amazing at coding
+
 
 ## Further information
 
