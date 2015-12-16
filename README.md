@@ -2,8 +2,8 @@
 
 ## Authors
 
-Graham S
-Rox A
+* Graham S
+* Rox A
 
 ## Further information
 
