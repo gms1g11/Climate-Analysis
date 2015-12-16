@@ -2,8 +2,8 @@
 
 ## Authors
 
-* Graham S
-* Rox A
+* Graham 1st authors
+* Rox just the audience
 
 ## Further information
 
