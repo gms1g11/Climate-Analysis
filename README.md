@@ -3,7 +3,7 @@
 ## Authors
 
 * Graham S
-* Rox A
+* Rox Amazing at coding
 
 ## Further information
 
